@@ -20,8 +20,7 @@
   <id>com.freshplanet.AirFacebook</id>
   <versionNumber>1</versionNumber>
   <platforms>
-
-  <!--
+  
     <platform name="iPhone-ARM">
         <applicationDeployment>
             <nativeLibrary>libAirFacebook.a</nativeLibrary>
@@ -29,7 +28,6 @@
             <finalizer>AirFacebookFinalizer</finalizer>
         </applicationDeployment>
     </platform>
--->
 
     <platform name="Android-ARM"> 
         <applicationDeployment> 

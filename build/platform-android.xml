@@ -8,7 +8,7 @@
     <packagedResources>
         <packagedResource>
             <packageName>com.freshplanet.AirFacebook</packageName> 
-            <folderName>res</folderName> 
+            <folderName>ane-facebook-res</folderName> 
         </packagedResource>
      <!--<packagedResource> 
             <packageName>com.google.android.gms</packageName> 
